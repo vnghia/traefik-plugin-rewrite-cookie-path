@@ -1,0 +1,11 @@
+displayName: Cookie Path Rewrite Plugin
+type: middleware
+import: github.com/vnghia/traefik-plugin-rewrite-cookie-path
+
+summary: "Rewrite the path of a cookie in the response"
+
+testData:
+  rewrites:
+    - name: someName
+      regex: "foo"
+      replacement: "bar"
