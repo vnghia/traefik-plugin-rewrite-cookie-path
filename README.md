@@ -2,8 +2,6 @@
 
 Cookie Path Rewrite is a middleware plugin for [Traefik](https://traefik.io) which rewrites the path of a cookie in the response. Inspired by [SchmitzDan/traefik-plugin-cookie-path-prefix](https://github.com/SchmitzDan/traefik-plugin-cookie-path-prefix) and [XciD/traefik-plugin-rewrite-headers](https://github.com/XciD/traefik-plugin-rewrite-headers).
 
-[![Build Status](https://github.com/vnghia/traefik-plugin-rewrite-cookie-path/workflows/Main/badge.svg?branch=main)](https://github.com/vnghia/traefik-plugin-rewrite-cookie-path/actions)
-
 ## Configuration
 
 ### Static
